@@ -1,0 +1,243 @@
+{"products":[
+   {
+      "id":"26",
+      "name":"Stella Artois Μπύρα 330ml",
+      "category":"Ποτά - Αναψυκτικά",
+      "subcategory":"Μπύρες"
+   },
+   {
+      "id":"282",
+      "name":"Amstel Μπύρα 330ml",
+      "category":"Ποτά - Αναψυκτικά",
+      "subcategory":"Μπύρες"
+   },
+   {
+      "id":"283",
+      "name":"Heineken Μπύρα 330ml",
+      "category":"Ποτά - Αναψυκτικά",
+      "subcategory":"Μπύρες"
+   },
+   {
+      "id":"402",
+      "name":"Heineken Μπύρα Premium Lager 500ml",
+      "category":"Ποτά - Αναψυκτικά",
+      "subcategory":"Μπύρες"
+   },
+   {
+      "id":"455",
+      "name":"Heineken Μπύρα 6X330ml",
+      "category":"Ποτά - Αναψυκτικά",
+      "subcategory":"Μπύρες"
+   },
+   {
+      "id":"57",
+      "name":"Κουρτάκη Ρετσίνα 500ml",
+      "category":"Ποτά - Αναψυκτικά",
+      "subcategory":"Κρασιά"
+   },
+   {
+      "id":"92",
+      "name":"Moscato D'Αsti Casarito Κρασί 750ml",
+      "category":"Ποτά - Αναψυκτικά",
+      "subcategory":"Κρασιά"
+   },
+   {
+      "id":"351",
+      "name":"Μαλαματίνα Ρετσίνα 500ml",
+      "category":"Ποτά - Αναψυκτικά",
+      "subcategory":"Κρασιά"
+   },
+   {
+      "id":"472",
+      "name":"Κρασί Της Παρέας Ερυθρό 1λιτ",
+      "category":"Ποτά - Αναψυκτικά",
+      "subcategory":"Κρασιά"
+   },
+   {
+      "id":"523",
+      "name":"Οίνος Ερ Γλυκ Μαυροδάφνη Αχαΐα 375ml",
+      "category":"Ποτά - Αναψυκτικά",
+      "subcategory":"Κρασιά"
+   },
+   {
+      "id":"32",
+      "name":"Axe Αποσμητικό Σπρέυ Africa 150ml",
+      "category":"Προσωπική φροντίδα",
+      "subcategory":"Αποσμητικά"
+   },
+   {
+      "id":"405",
+      "name":"Noxzema Αποσμ Rollon Classic 50ml",
+      "category":"Προσωπική φροντίδα",
+      "subcategory":"Αποσμητικά"
+   },
+   {
+      "id":"429",
+      "name":"Dove Αποσμ Σπρέυ 150ml",
+      "category":"Προσωπική φροντίδα",
+      "subcategory":"Αποσμητικά"
+   },
+   {
+      "id":"483",
+      "name":"Dove Deodorant Κρέμα Rollon 50ml",
+      "category":"Προσωπική φροντίδα",
+      "subcategory":"Αποσμητικά"
+   },
+   {
+      "id":"949",
+      "name":"Axe Αποσμ Σπρέυ Dark Temptation 150ml",
+      "category":"Προσωπική φροντίδα",
+      "subcategory":"Αποσμητικά"
+   },
+   {
+      "id":"239",
+      "name":"Sani Lady Sensitive Super N5 10τεμ",
+      "category":"Προσωπική φροντίδα",
+      "subcategory":"Πάνες ενηλίκων"
+   },
+   {
+      "id":"476",
+      "name":"Tena Lady Extra 20τεμ",
+      "category":"Προσωπική φροντίδα",
+      "subcategory":"Πάνες ενηλίκων"
+   },
+   {
+      "id":"839",
+      "name":"Sani Πάνα Ακρατ Sensitive N4 Xlarge 10τεμ",
+      "category":"Προσωπική φροντίδα",
+      "subcategory":"Πάνες ενηλίκων"
+   },
+   {
+      "id":"1194",
+      "name":"Sani Pants N2 Medium 14τεμ",
+      "category":"Προσωπική φροντίδα",
+      "subcategory":"Πάνες ενηλίκων"
+   },
+   {
+      "id":"1324",
+      "name":"Sani Υποσέντονα Fresh Maxi Plus 15τεμ",
+      "category":"Προσωπική φροντίδα",
+      "subcategory":"Πάνες ενηλίκων"
+   },
+   {
+      "id":"70",
+      "name":"Crunch Σοκολάτα Γάλακτος 100γρ",
+      "category":"Τρόφιμα",
+      "subcategory":"Γλυκά/Σοκολάτες"
+   },
+   {
+      "id":"79",
+      "name":"Lacta Σοκολάτα Γάλακτος 200γρ",
+      "category":"Τρόφιμα",
+      "subcategory":"Γλυκά/Σοκολάτες"
+   },
+   {
+      "id":"182",
+      "name":"Ferrero Kinder Pingui Σοκ/Γκοφρ 4X124γρ",
+      "category":"Τρόφιμα",
+      "subcategory":"Γλυκά/Σοκολάτες"
+   },
+   {
+      "id":"223",
+      "name":"Twix Σοκολάτα Μπισκότο 50γρ",
+      "category":"Τρόφιμα",
+      "subcategory":"Γλυκά/Σοκολάτες"
+   },
+   {
+      "id":"265",
+      "name":"Παυλίδης Γκοφρέτα 3bit 31γρ",
+      "category":"Τρόφιμα",
+      "subcategory":"Γλυκά/Σοκολάτες"
+   },
+   {
+      "id":"35",
+      "name":"Jacobs Καφές Φίλτρου Εκλεκτός 500γρ",
+      "category":"Τρόφιμα",
+      "subcategory":"Καφέδες"
+   },
+   {
+      "id":"67",
+      "name":"Nescafe Classic Στιγμιαίος Καφές 50γρ",
+      "category":"Τρόφιμα",
+      "subcategory":"Καφέδες"
+   },
+   {
+      "id":"130",
+      "name":"Nescafe Classic Στιγμιαίος Καφές 200γρ",
+      "category":"Τρόφιμα",
+      "subcategory":"Καφέδες"
+   },
+   {
+      "id":"186",
+      "name":"Nescafe Azera Καφές Espresso 100% Arabica 100γρ",
+      "category":"Τρόφιμα",
+      "subcategory":"Καφέδες"
+   },
+   {
+      "id":"244",
+      "name":"Nescafe Cappuccino 10φακ 140γρ",
+      "category":"Τρόφιμα",
+      "subcategory":"Καφέδες"
+   },
+   {
+      "id":"24",
+      "name":"Klinex Σπρέυ 4σε1 750ml",
+      "category":"Καθαριότητα",
+      "subcategory":"Είδη γενικού καθαρισμού"
+   },
+   {
+      "id":"30",
+      "name":"Klinex Χλωρίνη Ultra Lemon 750ml",
+      "category":"Καθαριότητα",
+      "subcategory":"Είδη γενικού καθαρισμού"
+   },
+   {
+      "id":"34",
+      "name":"CIF Spray Κουζίνας 500ml",
+      "category":"Καθαριότητα",
+      "subcategory":"Είδη γενικού καθαρισμού"
+   },
+   {
+      "id":"63",
+      "name":"Klinex Χλωρίνη Ultra Lemon 1250ml",
+      "category":"Καθαριότητα",
+      "subcategory":"Είδη γενικού καθαρισμού"
+   },
+   {
+      "id":"91",
+      "name":"Soupline Mistral Μαλακτικό 13πλ",
+      "category":"Καθαριότητα",
+      "subcategory":"Είδη γενικού καθαρισμού"
+   },
+   {
+      "id":"307",
+      "name":"Zewa Χαρτι Κουζίνας Wisch And Weg Economy 3τεμ",
+      "category":"Καθαριότητα",
+      "subcategory":"Χαρτικά"
+   },
+   {
+      "id":"321",
+      "name":"Zewa Χαρτομάντηλα Soft/Strong 90τμχ",
+      "category":"Καθαριότητα",
+      "subcategory":"Χαρτικά"
+   },
+   {
+      "id":"332",
+      "name":"Kleenex Χαρτί Υγείας 2 Φύλλα 12τεμ",
+      "category":"Καθαριότητα",
+      "subcategory":"Χαρτικά"
+   },
+   {
+      "id":"338",
+      "name":"Zewa Χαρτί Υγείας Deluxe Χαμομήλι 3 Φύλλα 8τεμ 768γρ",
+      "category":"Καθαριότητα",
+      "subcategory":"Χαρτικά"
+   },
+   {
+      "id":"502",
+      "name":"Softex Χαρτοπετσέτες Λευκές 30x30 56τεμ",
+      "category":"Καθαριότητα",
+      "subcategory":"Χαρτικά"
+   }
+]
+}

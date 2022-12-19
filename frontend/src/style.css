@@ -1,0 +1,206 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;600&display=swap");
+
+
+
+
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background: rgb(228, 246, 248);
+  ;
+
+}
+
+
+.container {
+  min-height: calc(100vh - 40px);
+  display: grid;
+  grid-template-columns: 50% 60%;
+  border-radius: 15px;
+  overflow: hidden;
+   padding: 40px; 
+}
+.login-left{
+  display:flex;
+  border-radius: 15px;
+  margin-right: 20px;
+  flex-direction: column;
+  justify-content: content;
+  padding-left: 150px;
+  background-color: white;
+}
+
+
+.login-right {
+  background-color: #eee;
+  display: flex;
+  margin-right: 200px;
+  border-radius:15px;
+  justify-content:center;
+}
+ .login-right img {
+    width: auto ;
+    margin-right: 80px;
+    border-radius: 15px;
+  }
+
+.login-header {
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+.login-header.content{
+  display:flex;
+  flex-direction:column;
+  gap:35px;
+}
+
+.login-header h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+
+.login-header p {
+  opacity : 0.7;
+}
+
+.login-form {
+  width: 450px;
+}
+.login-form-content {
+    display:flex;
+    flex-direction:column;
+    gap: 35px;
+  }
+
+.form-item label:not(.checkboxLabel) {
+  display: inline-block;
+  background-color: white;
+  margin-bottom: 10px;
+  position: absolute;
+  padding: 0 10px;
+  transform: translate(30px, -10px);
+  font-size: 14px;
+}
+
+input[type='text'],input[type='password'],input[type='email'] {
+  border:  1px solid black;
+  height: 55px;
+  padding: 0 2rem;
+  width: 100%;
+  outline: none;
+  font-size: 14px;
+  border-radius: 100px;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+input[type='checkbox'] {
+  width: 20px;
+  height: 20px;
+  accent-color: #DBD6B9;
+}
+
+.submit {
+  border:none;
+  background-color: rgb(254, 161, 0);;
+  border:none;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  color: black;
+  padding: 1rem;
+  border-radius: 15px;
+  text-align: center;
+  text-transform:uppercase;
+  font-size: 19px;
+  height: 55px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.submit:hover {
+  background-color: rgb(255, 98, 0); /* change the background color on hover */
+}
+
+
+footer {
+  margin-top: 12px;
+}
+
+#popup {
+  background-color:  #ffffffca;
+  padding: 10px;
+  border-radius: 10px;
+  color: black;
+}
+
+#shopName {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  color: rgb(255, 98, 0);
+}
+
+.deals {
+  margin: 0;
+  padding: 0;
+}
+
+.bold{
+  font-size:16px;
+  color: black;
+  font-weight: bold;
+}
+
+.inpop {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  color: black;
+}
+
+
+/* Responsivness */
+
+@media (max-width:1350px) {
+  .login-left {
+    padding: 50px !important;
+  }
+  .login-form {
+    width: 100%;
+  }
+
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 20px;
+  }
+  .container {
+    grid-template-columns: auto;
+  }  
+  .login-right{
+    display:none;
+  }
+}
+
+  
+
+
+/* .inputs {
+    @apply p-1 block m-3 rounded-md pl-3
+} */
+
+
+
